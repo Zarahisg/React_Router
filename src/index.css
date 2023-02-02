@@ -1,0 +1,13 @@
+body{
+  background: rgb(216, 191, 232);
+}
+#home, #contact,#notfound{
+  height: 100vh;
+}
+#navbar,footer{
+  background-color: rgba(189, 38, 146, 0.815);
+}
+
+.btn{
+  background-color: rgba(189, 38, 146, 0.815)
+}
