@@ -2,7 +2,7 @@ export default function Contact () {
     return (
     <div className="container"id="contact">
     <div className="mb-3">
-        <h2 className="d-flex justify-content-center">Cuentanos, ¿en que podemos ayudarte?</h2>
+        <h2 className="d-flex justify-content-center">Cuentanos, ¿Como?</h2>
     <h6  className="d-flex justify-content-center form-h6">Correo:</h6>
     <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com"/>
   </div>
