@@ -3,8 +3,6 @@ export default function Footer () {
         <div className="text-center text-light bg-dark"id="Footer">
             <div className="d-flex mx-5">
                 <p className="p-2 flex-grow-1 fs-4">ZG © 2023. Todos los derechos reservados.</p>
-                <a className="p-2 text-decoration-none text-light fs-2" href="https://www.linkedin.com/in/zguzman/" target="_blank" >
-                    <i className="fa-brands fa-linkedin"></i></a>
             </div>
         </div>
     );
